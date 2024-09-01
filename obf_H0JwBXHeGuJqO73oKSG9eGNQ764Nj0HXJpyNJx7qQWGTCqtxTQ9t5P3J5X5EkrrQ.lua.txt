@@ -1,4 +1,4 @@
-local ac = loadstring(game:HttpGet("https://raw.githubusercontent.com/selfmadeV3/Slyv2/main/Slyv2", true))()
+local ac = loadstring(game:HttpGet("https://raw.githubusercontent.com/selfmadeV3/Bypasser/main/acbypass", true))()
 
 --[[
  .____                  ________ ___.    _____                           __                
